@@ -6,7 +6,7 @@ models towards the majority classes. However, with large and highly imbalanced d
 significantly increasing the computational effort required for data processing and machine learning. In this work, we present a big data approach for imbalanced learning 
 implemented under PySpark. 
 
-<img src="https://user-images.githubusercontent.com/49972425/172186316-64b48747-cbba-48a7-afd7-d408627200ff.png" height="300"> <img src="https://user-images.githubusercontent.com/49972425/172186436-f74f87e8-3865-48bd-92d2-200cbd62081f.png" height="300">
+<img src="https://user-images.githubusercontent.com/49972425/172186316-64b48747-cbba-48a7-afd7-d408627200ff.png" height="400"> <img src="https://user-images.githubusercontent.com/49972425/172186436-f74f87e8-3865-48bd-92d2-200cbd62081f.png" height="400">
 
 
 ### Implementation Details:
